@@ -114,13 +114,13 @@ export default function SafeImage({
           return {
             gradient: 'from-primary-600/20 via-accent-600/10 to-primary-600/5',
             icon: <Award className="w-14 h-14 text-accent-500/60" />,
-            label: 'BrightSmile Clinic'
+            label: 'Brightwell Dentis'
           };
         default:
           return {
             gradient: 'from-primary-500/10 via-accent-500/5 to-primary-500/10',
             icon: <Heart className="w-10 h-10 text-accent-500/60" />,
-            label: 'BrightSmile Care'
+            label: 'Brightwell Care'
           };
       }
     };

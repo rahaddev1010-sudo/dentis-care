@@ -335,14 +335,14 @@ export default function App() {
             {activeTab === 'about' && (
               <>
                 <PageHero
-                  badgeText="About BrightSmile"
+                  badgeText="About Brightwell Dentis"
                   headline={
                     <>
                       More Than a Dental Clinic —<br />
                       We're Your Lifelong Oral Health Partner
                     </>
                   }
-                  subheadline="Founded in 2010, BrightSmile has grown from a single-chair practice into a multi-specialty dental center trusted by over 15,000 patients across Bangladesh. Our story is built on compassion, innovation, and a relentless commitment to exceptional care."
+                  subheadline="Founded in 2010, Brightwell Dentis has grown from a single-chair practice into a multi-specialty dental center trusted by over 15,000 patients across Bangladesh. Our story is built on compassion, innovation, and a relentless commitment to exceptional care."
                   imageUrl="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&q=80&w=1920"
                   buttons={aboutHeroButtons}
                 />
@@ -356,17 +356,17 @@ export default function App() {
                           Our Journey
                         </span>
                         <h2 className="font-display font-bold text-3xl text-dark-900 tracking-tight leading-tight">
-                          How BrightSmile Began
+                          How Brightwell Dentis Began
                         </h2>
                         <div className="font-sans text-sm sm:text-base text-gray-500 space-y-4 leading-relaxed">
                           <p>
-                            Dr. James Carter opened BrightSmile Dental Clinic in 2010 with a single mission: to make high-quality dental care accessible, affordable, and anxiety-free for every patient. What started as a small neighborhood clinic has grown into a full-service dental center with 10 specialized departments and a team of 25+ expert professionals.
+                            Dr. James Carter opened Brightwell Dentis in 2010 with a single mission: to make high-quality dental care accessible, affordable, and anxiety-free for every patient. What started as a small neighborhood clinic has grown into a full-service dental center with 10 specialized departments and a team of 25+ expert professionals.
                           </p>
                           <p>
                             Over the years, we've expanded our services, upgraded our technology, and welcomed patients from across the country. But one thing has never changed — our commitment to treating every patient like family.
                           </p>
                           <p>
-                            Today, BrightSmile is proud to be one of the region's most trusted names in dental healthcare, combining the latest advancements in dental science with a warm, personalized approach.
+                            Today, Brightwell Dentis is proud to be one of the region's most trusted names in dental healthcare, combining the latest advancements in dental science with a warm, personalized approach.
                           </p>
                         </div>
                       </div>
@@ -493,7 +493,7 @@ export default function App() {
                           Modern Clinical Facilities & Advanced Diagnostics
                         </h2>
                         <p className="text-sm text-gray-500 leading-relaxed font-sans">
-                          BrightSmile is fully structured to deliver hospital-grade dental services under strict ISO sanitization laws. Browse our clinical assets:
+                          Brightwell Dentis is fully structured to deliver hospital-grade dental services under strict ISO sanitization laws. Browse our clinical assets:
                         </p>
                       </div>
 
@@ -534,7 +534,7 @@ export default function App() {
                       <span className="text-accent-500">Under One Roof</span>
                     </>
                   }
-                  subheadline="From your first checkup to your final restoration, BrightSmile offers comprehensive services for patients of all ages. Explore our full range of dental treatments."
+                  subheadline="From your first checkup to your final restoration, Brightwell Dentis offers comprehensive services for patients of all ages. Explore our full range of dental treatments."
                   imageUrl="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&q=80&w=1920"
                   buttons={servicesHeroButtons}
                 />
@@ -739,7 +739,7 @@ export default function App() {
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto mb-16 select-none">
                       {[
                         { title: 'Call Us', icon: <Phone className="w-5 h-5 text-accent-500" />, text: '+880 1700-000000', label: 'Mon–Sat, 8AM–6PM' },
-                        { title: 'Email Us', icon: <Mail className="w-5 h-5 text-accent-500" />, text: 'hello@brightsmile.com', label: 'Response in 2–4 hours' },
+                        { title: 'Email Us', icon: <Mail className="w-5 h-5 text-accent-500" />, text: 'hello@brightwelldentis.com', label: 'Response in 2–4 hours' },
                         { title: 'Find Us', icon: <MapPin className="w-5 h-5 text-accent-500" />, text: '123 Medical Avenue, Dhaka', label: 'Near Gulshan Circle 2' },
                         { title: 'Opening Hours', icon: <Clock className="w-5 h-5 text-accent-500" />, text: 'Mon–Sat: 8AM – 6PM', label: 'Sunday: Emergency Only' }
                       ].map((card, i) => (
@@ -785,7 +785,7 @@ export default function App() {
                             allowFullScreen
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade"
-                            title="BrightSmile Location Map Dhaka"
+                            title="Brightwell Dentis Location Map Dhaka"
                           />
                         </div>
 
@@ -880,7 +880,7 @@ export default function App() {
                       ✦ Clinical Registration
                     </span>
                     <h3 className="font-display font-extrabold text-xl sm:text-2xl mt-2 tracking-tight">
-                      BrightSmile Consultation Portal
+                      Brightwell Dentis Consultation Portal
                     </h3>
                   </div>
                 </div>

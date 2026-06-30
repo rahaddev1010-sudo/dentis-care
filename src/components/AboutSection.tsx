@@ -18,7 +18,7 @@ export default function AboutSection({ onNavigateToAbout }: { onNavigateToAbout:
             <div className="relative rounded-3xl overflow-hidden aspect-5/6 shadow-2xl border-4 border-white">
               <SafeImage
                 src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800"
-                alt="BrightSmile Clinic Interior Dhaka"
+                alt="Brightwell Dentis Clinic Interior Dhaka"
                 fallbackType="clinic"
                 className="w-full h-full object-cover"
               />
@@ -60,7 +60,7 @@ export default function AboutSection({ onNavigateToAbout }: { onNavigateToAbout:
             </h2>
 
             <p className="font-sans text-sm sm:text-base text-gray-500 leading-relaxed">
-              At BrightSmile Dental Clinic, we combine cutting-edge technology with a warm, patient-centered approach to deliver exceptional oral healthcare. Our team of certified dentists and specialists is dedicated to making every visit comfortable, effective, and stress-free.
+              At Brightwell Dentis, we combine cutting-edge technology with a warm, patient-centered approach to deliver exceptional oral healthcare. Our team of certified dentists and specialists is dedicated to making every visit comfortable, effective, and stress-free.
             </p>
             <p className="font-sans text-sm sm:text-base text-gray-500 leading-relaxed">
               We believe that a healthy smile is the foundation of overall well-being. Whether you need a routine cleaning or a full smile makeover, we're here every step of the way.

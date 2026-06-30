@@ -166,7 +166,7 @@ export default function Footer({ setActiveTab }: FooterProps) {
 
         {/* Bottom copyright section */}
         <div className="border-t border-dark-800 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-gray-500 space-y-4 md:space-y-0">
-          <p>© 2025 BrightSmile Dental Clinic. All Rights Reserved.</p>
+          <p>© 2025 Brightwell Dentis. All Rights Reserved.</p>
           <div className="flex space-x-6">
             <a href="#" className="hover:text-accent-500 transition-colors">Privacy Policy</a>
             <span>•</span>

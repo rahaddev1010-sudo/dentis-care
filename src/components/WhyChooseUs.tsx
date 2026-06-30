@@ -30,11 +30,11 @@ export default function WhyChooseUs() {
             </span>
 
             <h2 className="font-display font-bold text-3xl sm:text-4xl text-dark-900 tracking-tight leading-tight">
-              Reasons Thousands Trust BrightSmile
+              Reasons Thousands Trust Brightwell Dentis
             </h2>
 
             <p className="font-sans text-sm sm:text-base text-gray-500 leading-relaxed">
-              With over a decade of experience serving thousands of families, BrightSmile Dental Clinic has earned a reputation for excellence, innovation, and genuine patient care. We invest in the latest dental technology so you receive the most effective treatments available.
+              With over a decade of experience serving thousands of families, Brightwell Dentis has earned a reputation for excellence, innovation, and genuine patient care. We invest in the latest dental technology so you receive the most effective treatments available.
             </p>
             <p className="font-sans text-sm sm:text-base text-gray-500 leading-relaxed">
               Our clinic is designed to be a calm, welcoming space — because we know dental anxiety is real, and we work to make every visit as comfortable as possible.

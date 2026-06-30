@@ -11,7 +11,7 @@ export const SERVICES: Service[] = [
     iconName: 'Sparkles',
     title: 'Professional Teeth Whitening',
     description: 'Transform dull, stained teeth into a radiant, camera-ready smile. Our professional whitening treatments are clinically proven to brighten teeth by up to 8–10 shades in a single session.',
-    extendedDescription: 'Professional teeth whitening at BrightSmile uses premium, clinically-approved whitening compounds activated by a state-of-the-art cold-light source. Unlike over-the-counter options, our in-office system ensures complete safety, zero enamel erosion, and is calibrated for sensitive teeth to eliminate discomfort. Perfect for weddings, corporate events, or a major confidence boost.',
+    extendedDescription: 'Professional teeth whitening at Brightwell Dentis uses premium, clinically-approved whitening compounds activated by a state-of-the-art cold-light source. Unlike over-the-counter options, our in-office system ensures complete safety, zero enamel erosion, and is calibrated for sensitive teeth to eliminate discomfort. Perfect for weddings, corporate events, or a major confidence boost.',
     benefits: [
       'Visible results in just 60–90 minutes',
       'Long-lasting brightness (up to 2–3 years)',
@@ -25,7 +25,7 @@ export const SERVICES: Service[] = [
     iconName: 'Activity',
     title: 'Painless Root Canal Therapy',
     description: 'Advanced endodontic therapy to save your natural tooth, eliminate infection, and relieve pain — all with minimal discomfort using modern techniques.',
-    extendedDescription: "Don't let fear of root canals prevent you from getting the care you need. Modern endodontic therapy at BrightSmile is exceptionally gentle, utilizing advanced rotary instruments, local micro-anesthesia, and digital diagnostics. We focus on thoroughly cleaning the root canals to eliminate infection, sealing the tooth, and restoring its strength with custom-fit crowns — usually in a single, painless visit.",
+    extendedDescription: "Don't let fear of root canals prevent you from getting the care you need. Modern endodontic therapy at Brightwell Dentis is exceptionally gentle, utilizing advanced rotary instruments, local micro-anesthesia, and digital diagnostics. We focus on thoroughly cleaning the root canals to eliminate infection, sealing the tooth, and restoring its strength with custom-fit crowns — usually in a single, painless visit.",
     benefits: [
       'Save and preserve your natural tooth structure',
       'Quickly eliminates persistent dental infection & pain',
@@ -81,7 +81,7 @@ export const SERVICES: Service[] = [
     iconName: 'Scissors',
     title: 'Expert Surgical Dental Care',
     description: 'Expert surgical care including wisdom tooth extraction, bone grafting, and jaw surgery — performed with precision and maximum patient comfort.',
-    extendedDescription: 'BrightSmile hosts a highly specialized surgical department equipped for advanced procedures. Led by board-certified oral and maxillofacial surgeons, we provide comfortable wisdom teeth extraction, bone graft reconstruction for dental implants, sinus lifts, and aesthetic gum contouring. Every surgery incorporates advanced sedation options and is conducted in a sterile, modern hospital-grade surgical theater.',
+    extendedDescription: 'Brightwell Dentis hosts a highly specialized surgical department equipped for advanced procedures. Led by board-certified oral and maxillofacial surgeons, we provide comfortable wisdom teeth extraction, bone graft reconstruction for dental implants, sinus lifts, and aesthetic gum contouring. Every surgery incorporates advanced sedation options and is conducted in a sterile, modern hospital-grade surgical theater.',
     benefits: [
       'Performed by internationally certified oral surgeons',
       'Surgical navigation guides for minimally invasive procedures',
@@ -155,7 +155,7 @@ export const GALLERY_ITEMS = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: 't1',
-    text: 'I was terrified of the dentist my whole life. BrightSmile completely changed my experience. The team is incredibly gentle, professional, and patient. My new smile has given me so much confidence!',
+    text: 'I was terrified of the dentist my whole life. Brightwell Dentis completely changed my experience. The team is incredibly gentle, professional, and patient. My new smile has given me so much confidence!',
     author: 'Sarah Mitchell',
     role: 'Marketing Manager',
     rating: 5
@@ -286,7 +286,7 @@ export const FAQS: FAQItem[] = [
   {
     id: 'faq1',
     category: 'general',
-    question: 'How do I book an appointment at BrightSmile?',
+    question: 'How do I book an appointment at Brightwell Dentis?',
     answer: "You can book online through our website's interactive appointment form, call us directly at our patient line +880 1700-000000, or visit our clinic in person. We also accept same-day bookings for emergency dental care. Our convenient online booking engine is fully active 24/7."
   },
   {
@@ -399,7 +399,7 @@ Once fully integrated, our lab installs a customized high-strength porcelain or 
 - **Step 3: Osseointegration**: A healing period of 3-6 months allows the bone to fuse with the post.
 - **Step 4: Crown Installation**: We custom-milled and install your stunning porcelain crown.
 
-Schedule a complimentary 3D scan at BrightSmile today to learn if you are a candidate!`
+Schedule a complimentary 3D scan at Brightwell Dentis today to learn if you are a candidate!`
   },
   {
     id: 'b-1',

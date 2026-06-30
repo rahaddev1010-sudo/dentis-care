@@ -45,7 +45,7 @@ export default function SmileGallery({ onNavigateToContact }: { onNavigateToCont
             Smile Makeovers That Transform Lives
           </h2>
           <p className="text-sm sm:text-base text-gray-500 mt-3 font-sans leading-relaxed">
-            Witness the artistic precision and advanced medical technology of BrightSmile clinic. Explore real before-and-after cases of our patients.
+            Witness the artistic precision and advanced medical technology of Brightwell Dentis clinic. Explore real before-and-after cases of our patients.
           </p>
         </div>
 

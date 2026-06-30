@@ -297,7 +297,7 @@ export default function AppointmentForm({ onSuccessClose, inlineMode = false }: 
                 Thank You, {formData.fullName}!
               </h3>
               <p className="text-sm text-gray-500 mt-2 max-w-md mx-auto">
-                Your consultation has been successfully booked at BrightSmile Dental. Our desk coordinator will reach out via phone or email shortly to confirm your specific hour.
+                Your consultation has been successfully booked at Brightwell Dentis. Our desk coordinator will reach out via phone or email shortly to confirm your specific hour.
               </p>
             </div>
 
